@@ -1,0 +1,19 @@
+/* styles.css */
+body {
+    background-color: #f9f9f9;
+  }
+  
+  .btn-primary {
+    background-color: #5a189a;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #9d4edd;
+  }
+  
+  .producto:hover {
+    transform: scale(1.02);
+    transition: transform 0.3s ease;
+  }
+  
