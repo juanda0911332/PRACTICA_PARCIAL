@@ -1,0 +1,33 @@
+#Ramos {
+  color: chartreuse;
+}
+
+#Disable{
+    color: darkmagenta;
+}
+
+#Titulo{
+    color: red;
+    text-align: center;
+}
+
+#Codigo{
+    color: rgb(0, 225, 255);
+}
+
+#Nombre{
+    color: chartreuse;
+}
+
+#Apellido{
+    color: purple;
+}
+
+.tabla {
+  margin-right: auto;
+}
+
+.PASAR{
+    color: red;
+    text-align: center;
+}
